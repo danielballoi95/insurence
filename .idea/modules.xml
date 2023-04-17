@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Anagrafica/Anagrafica.iml" filepath="$PROJECT_DIR$/../Anagrafica/Anagrafica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Be4fe/Be4fe.iml" filepath="$PROJECT_DIR$/../Be4fe/Be4fe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Component-persistence/Component-persistence.iml" filepath="$PROJECT_DIR$/../Component-persistence/Component-persistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Insurance-parent/Insurance-parent.iml" filepath="$PROJECT_DIR$/../Insurance-parent/Insurance-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Pratiche/Pratiche.iml" filepath="$PROJECT_DIR$/../Pratiche/Pratiche.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Prodotti/Prodotti.iml" filepath="$PROJECT_DIR$/../Prodotti/Prodotti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/insurence.iml" filepath="$PROJECT_DIR$/.idea/insurence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pagamenti/pagamenti.iml" filepath="$PROJECT_DIR$/../pagamenti/pagamenti.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Prodotti" />
+        <module name="Pratiche" />
+        <module name="pagamenti" />
+        <module name="Anagrafica" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Anagrafica" target="1.8" />
+      <module name="Be4fe" target="1.8" />
+      <module name="Component-persistence" target="1.8" />
+      <module name="Insurance-parent" target="1.8" />
+      <module name="pagamenti" target="1.8" />
+      <module name="Pratiche" target="1.8" />
+      <module name="Prodotti" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Anagrafica" options="-parameters" />
+      <module name="Be4fe" options="" />
+      <module name="Component-persistence" options="" />
+      <module name="Insurance-parent" options="" />
+      <module name="Pratiche" options="-parameters" />
+      <module name="Prodotti" options="-parameters" />
+      <module name="pagamenti" options="-parameters" />
+    </option>
+  </component>
+</project>
